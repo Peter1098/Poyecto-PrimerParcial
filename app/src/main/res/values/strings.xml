@@ -1,0 +1,62 @@
+<resources>
+    //Layout MainActivity
+    <string name="app_name">Proyec1pma</string>
+    <string name="tesoem">tesoem</string>
+    <string name="tecnm">tecnm</string>
+    <string name="titulo1">Carrera:Ingeneria en Sistemas Computacionales.</string>
+    <string name="titulo2">Materia:Introduccion a Dispositivos Moviles.</string>
+    <string name="titulo3">Proyecto Primer Parcial.</string>
+    <string name="titulo4">Alumno:Meza Alarcón Pedro.</string>
+    <string name="titulo5">Grupo:7S11.</string>
+    <string name="titulo6">Matricula:166010008.</string>
+    <string name="butregresar">Regresar</string>
+    <string name="butsiguiente">Siguiente</string>
+    //layout frm2
+    <string name="intro">¿Que son los pokemones legendarios?</string>
+    <string name="legendario">Los Pokémon legendarios se caracterizan, sobre todo, por su enorme poder.</string>
+    <string name="legendario2">Muchos Pokémon legendarios pertenecen a la mitología y leyendas Pokémon,
+                              siendo parte de la tradición oral de las personas del mundo Pokémon, convirtiéndolos
+                              en criaturas muy importantes que muchas veces influyen en el folclore y tradiciones de
+                              los pueblos, villas y ciudades.</string>
+    //layout frm3
+    <string name="clasificacion">Clasificaciones:</string>
+    <string name="programador">Programador</string>
+    <string name="primer">Primer Generacion</string>
+    <string name="segunda">Segunda Generacion</string>
+    <string name="tercera">Tercera Generacion</string>
+    <string name="poke">pokemon</string>
+    <string name="salir">Salir</string>
+    //layout frm4
+    <string name="datos">Datos de Contacto:</string>
+    <string name="diseño">Diseño:Pedro Meza Alarcon.</string>
+    <string name="telefono">Tel:5578122815</string>
+    <string name="email">Correo Electronico:pedromezaalarcon15@gmail.com</string>
+    <string name="insta">Instagram:@pedromezaa15</string>
+    <string name="face">Facebook:https://www.facebook.com/pedromezaalarcon15</string>
+    <string name="apodo">PeterMA1098.</string>
+    //layout frm5
+    <string name="aves">Aves.</string>
+    <string name="zap">*Zapdos.</string>
+    <string name="mol">*Moltres.</string>
+    <string name="art">*Articuno.</string>
+    //layout frm6
+    <string name="otros">Otros:</string>
+    <string name="mewtwo">*Mewtwo.</string>
+    <string name="mew">*Mew.</string>
+    //layout frm7
+    <string name="perros">Perros.</string>
+    <string name="entei">*Entei.</string>
+    <string name="suicune">*Suicune.</string>
+    <string name="raikou">*Raikou.</string>
+    //layout frm8
+    <string name="hooh">*Ho-oh.</string>
+    <string name="lugia">*Lugia.</string>
+    //layout frm9
+    <string name="latias">*Latias.</string>
+    <string name="latios">*Latios.</string>
+    //layout frm10
+    <string name="trio">Trio Creador:</string>
+    <string name="kyo">*Kyogre</string>
+    <string name="gro">*Groudon.</string>
+    <string name="ray">*Rayquaza.</string>
+</resources>
